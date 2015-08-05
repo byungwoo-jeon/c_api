@@ -1,2 +1,2 @@
-# c_api
-c language api
+# test c language
+c language test code
